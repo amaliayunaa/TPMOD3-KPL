@@ -1,0 +1,15 @@
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\bin\Debug\net6.0\tpModul3.exe
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\bin\Debug\net6.0\tpModul3.deps.json
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\bin\Debug\net6.0\tpModul3.runtimeconfig.json
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\bin\Debug\net6.0\tpModul3.dll
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\bin\Debug\net6.0\tpModul3.pdb
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.csproj.AssemblyReference.cache
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.AssemblyInfoInputs.cache
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.AssemblyInfo.cs
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.csproj.CoreCompileInputs.cache
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.dll
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\refint\tpModul3.dll
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.pdb
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\tpModul3.genruntimeconfig.cache
+D:\KULIAH SMT 4\KONTRUKSI PERANGKAT LUNAK\tpModul3\obj\Debug\net6.0\ref\tpModul3.dll
